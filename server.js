@@ -13,7 +13,7 @@ const MAX_BUFFER_SIZE = 100;
 // ✅ Middleware: parse JSON and enable CORS for your frontend domain
 app.use(express.json());
 app.use(cors({
-  origin: 'https://gggg-2.pagedrop.io', // 🔧 Replace with your actual HTML domain
+  origin: 'https://gggg-8.pagedrop.io', // 🔧 Replace with your actual HTML domain
   credentials: true
 }));
 
